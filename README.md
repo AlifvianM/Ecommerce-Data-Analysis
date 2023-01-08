@@ -13,3 +13,6 @@ Repo ini bertujuan untuk mempresentasikan hasil kerja kami menganalisis data eco
 
 ## Goals
 Tujuan dari pembuatan notebook ini adalah menemukan insight apa saja dari data yang tersedia seperti geolocation, pertumbuhan pesanan, product yang sering dibeli, hingga pembuatan model untuk deteksi anomaly dan customer segmentations.
+
+## What You Needed
+Notebook ditulis dengan menggunakan bahasa python dan anaconda sebagai package handlernya. Selebihnya library yang digunakan telah terdaftar didalam notebook pada bagian ```Library Preparations```
